@@ -3,7 +3,11 @@ package source;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * 
+ * @author Mario
+ *
+ */
 public class Agenda {
 	
 	//CheckButton que indique si la búsqueda ha de estar contenida o ser el resultado literal
